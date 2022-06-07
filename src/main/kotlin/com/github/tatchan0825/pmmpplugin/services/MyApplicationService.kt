@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tatchan0825.pmmpplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tatchan0825.pmmpplugin.MyBundle
 
 class MyApplicationService {
 
